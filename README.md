@@ -20,3 +20,23 @@ In the project directory, you can run:
 
 ### To Run Application
 #### `nodemon server/server.js`
+
+## API Details
+
+### Sign Up API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/Signup.png)
+
+### Sign In API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/Signin.png)
+
+### List User API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/users.png)
+
+### Add Product API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/addproduct.png)
+
+### Product List API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/productlist.png)
+
+### Search Product API
+![](https://github.com/jayjoshi88105/vdocmsbackend/blob/dev/searchproductbykeyword.png)
